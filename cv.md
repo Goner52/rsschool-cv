@@ -1,13 +1,9 @@
-Resume
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+# Resume
+1. Siarhei Makhan
+1. [Telegram](https://t.me/@s3ren17y)
+1. Become a Frontend dev. & graduate from university
+1. JavaSript, HTML, CSS
+1. All that i done so far you can see [here](https://github.com/Goner52?tab=repositories)
+1. [Codewars](https://www.codewars.com/users/Goner52)
+1. Currently: BNTU Fitr & Courses like: [codeacademy](https://www.codecademy.com/profiles/makhansiarhei), [freeCodeCamp](https://www.freecodecamp.org/goner52)
+1. English skills: 11 years in school & 2 in university & and most of all self-learning 
