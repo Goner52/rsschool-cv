@@ -1,1 +1,1 @@
- https://goner52.github.io/rsschool-cv/cv
+ https://goner52.github.io/rsschool-cv/
