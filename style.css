@@ -1,0 +1,36 @@
+.wrapper {
+    margin: 0 20px;
+    display: grid;
+    grid-gap: 10px;
+}
+.top-page,
+main,
+footer {
+    padding: 2em;
+    text-align: center;
+}
+main {
+    display: grid;
+}
+p {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    font-family: sans-serif;
+}
+h3 {
+    text-transform: uppercase;
+    font-family: sans-serif, Raleway;
+}
+a {
+    text-decoration: none;
+    color: #ff4500;
+}
+.skills,
+.code-examples,
+.experience {
+    border-bottom: 1px solid #cccccc;
+    margin: 2em;
+}
+html {
+    background-color: #e6e6fa;
+}
