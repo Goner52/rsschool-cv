@@ -1,36 +1,44 @@
-.wrapper {
-    margin: 0 20px;
-    display: grid;
-    grid-gap: 10px;
+* {
+    margin: 0 auto;
+    background-color: #a4cbf3;
 }
-.top-page,
-main,
-footer {
+.top-page {
     padding: 2em;
+}
+.wrapper {
     text-align: center;
+
 }
-main {
-    display: grid;
+.content {
+    padding: 2em;
 }
-p {
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    font-family: sans-serif;
+.skills,
+.code-examples,
+.experience {
+    border-bottom: 1px solid #b00000;
+    margin: 2em;
 }
+
 h3 {
     text-transform: uppercase;
     font-family: sans-serif, Raleway;
+}
+p, h6 {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+.contact-info a {
+    text-decoration: none;
+    color: #fffafa;
 }
 a {
     text-decoration: none;
     color: #ff4500;
 }
-.skills,
-.code-examples,
-.experience {
-    border-bottom: 1px solid #cccccc;
-    margin: 2em;
+.skills:hover,
+.code-examples:hover,
+.experience:hover {
+    color: dodgerblue;
 }
-html {
-    background-color: #e6e6fa;
-}
+
+
